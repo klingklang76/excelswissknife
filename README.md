@@ -1,4 +1,4 @@
-# excelswissknife
+# Excel Swiss Knife
 Free multi-tool Microsoft Excel Add-in
 
 Summary
