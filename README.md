@@ -10,7 +10,7 @@ Summary
 
 
 1. What is Excel Swiss Knife?
-------------------------------------------------------------------------
+
 Excel Swiss Knife (ESK) is an add-in for Microsoft Excel.
 Once installed, add a new tab to the Excel menu, from which you can 
 start all its functions. These are divided into more categories, and aim 
@@ -34,22 +34,20 @@ where ESK has a dedicated topic
 
 ESK is free for personal use, and for now available in Italian and
 English (the latter with possible inaccuracies).
-------------------------------------------------------------------------
 
 
 2. Installation and update
-------------------------------------------------------------------------
+
 Since this is basically a collection of macros in Visual Basic
 for Applications (VBA), you must enable it before installation
 execution of the macros in Excel, and accept any request for
 activate them during installation. I obviously guarantee the absence of
 any malicious code within the program. It is also necessary to
 close all open Excel instances before proceeding.
-------------------------------------------------------------------------
 
 
 3. User instructions
-------------------------------------------------------------------------
+
 Every function of the program has its particularities, and goes beyond the
 The purposes of this brief presentation to go down into the details of each one
 of them. Guides with specifications for each function are published on
@@ -73,4 +71,3 @@ always possible to go back ONLY BEFORE THE VERY LAST PROCESSING,
 while the previous ones will be now irreversible, if not by closing the 
 file without saving it (and thus losing any further modification
 carried out).
-------------------------------------------------------------------------
