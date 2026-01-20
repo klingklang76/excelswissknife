@@ -49,9 +49,7 @@ You use it when you need it, without changing how you normally work in Excel.
 
 ## Screenshot
 
-*(Insert one or more screenshots or an animated GIF here)*
-
-Tip: even a single image of the ribbon menu helps users immediately understand what kind of tool this is.
+![Preview of the split range to separate files tool](docs/images/SplitSheet2Files.png)
 
 ---
 
