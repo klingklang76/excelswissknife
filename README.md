@@ -49,7 +49,7 @@ You use it when you need it, without changing how you normally work in Excel.
 
 ## Screenshot
 
-![Preview of the split range to separate files tool](docs/images/SplitSheet2Files.png)
+![Preview of the split range to separate files tool](docs/images/SplitRange2Files.png)
 
 ---
 
