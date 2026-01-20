@@ -2,8 +2,7 @@
 
 **Excel Swiss Knife** is a free and open-source Excel add-in that adds hundreds of productivity tools missing from Excel.
 
-It is designed for people who use Excel every day and want to work faster, cleaner, and with fewer errors — without writing VBA or complex formulas.
-
+It is designed to speed up repetitive Excel tasks that normally require complex formulas, VBA code, or multiple external tools.
 ---
 
 ## Why Excel Swiss Knife exists
@@ -16,6 +15,13 @@ Excel is extremely powerful, but many common operations still require:
 - custom VBA code
 
 Excel Swiss Knife fills these gaps by providing ready-to-use tools directly inside Excel, available from a dedicated ribbon menu.
+
+![Preview of the ribbon menu](docs/images/ESKRibbon.png)
+
+Excel Swiss Knife is designed for:
+- Excel power users
+- analysts and data workers
+- anyone who spends too much time on repetitive spreadsheet tasks
 
 ---
 
@@ -189,8 +195,7 @@ If you find a limitation or have an idea for improvement:
 
 Excel Swiss Knife has been developed and maintained for years as a free tool.
 
-If it saves you time or helps you solve real Excel problems,  
-a small donation helps keep the project alive and evolving.
+If it saved you time or frustration, please consider supporting its development.
 
 https://www.excelswissknife.com/donate
 
