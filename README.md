@@ -7,11 +7,11 @@
 ## Why Excel Swiss Knife exists
 
 Excel is extremely powerful, but many common operations still require:
-- repetitive manual steps
-- fragile formulas
-- temporary helper columns
-- external tools
-- custom VBA code
+- Repetitive manual steps
+- Fragile formulas
+- Temporary helper columns
+- External tools
+- Custom VBA code
 
 Excel Swiss Knife fills these gaps by providing ready-to-use tools directly inside Excel, available from a dedicated ribbon menu.
 
@@ -19,8 +19,8 @@ Excel Swiss Knife fills these gaps by providing ready-to-use tools directly insi
 
 Excel Swiss Knife is designed for:
 - Excel power users
-- analysts and data workers
-- anyone who spends too much time on repetitive spreadsheet tasks
+- Analysts and data workers
+- Anyone who spends too much time on repetitive spreadsheet tasks
 
 ---
 
