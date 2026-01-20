@@ -62,6 +62,105 @@ The add-in is distributed as a standard Excel add-in file and works with modern 
 
 ---
 
+## 🔧 Installation, Update, and Removal
+
+Excel Swiss Knife is an Excel add-in written in **VBA (Visual Basic for Applications)**.  
+For this reason, **macros must be enabled in Excel**, at least on demand.
+
+---
+
+### Macro Security Settings (required)
+
+Before installing the add-in, check your macro security settings:
+
+**Excel → File → Options → Trust Center → Trust Center Settings → Macro Settings**
+
+We recommend:
+
+> **Disable all macros with notification**
+
+This setting keeps a high level of security and allows you to enable macros **only when prompted** during installation.
+
+---
+
+## Installation & Update
+
+Excel Swiss Knife is distributed in **two versions**.
+
+---
+
+### Option 1 — Standard Add-In (`.zip`)
+
+1. Download the `.zip` file.
+2. Extract it to a folder of your choice.
+3. Open Excel.
+4. Go to **File → Options → Add-Ins**.
+5. In the **Manage** dropdown, select **Excel Add-ins** and click **Go…**.
+6. Click **Browse…**, select the extracted `.xlam` file, and confirm.
+
+Administrator privileges are **not required**.
+
+---
+
+### Option 2 — Portable Version (`.xlam`)
+
+The portable version consists of a **single `.xlam` file**.
+
+- You can **double-click the file** to load it temporarily in Excel.
+- No installation is required.
+- No additional configuration files are written.
+
+This version is recommended for:
+- testing purposes  
+- restricted environments where installing add-ins is not permitted  
+- macOS systems (Excel 2016 or later)
+
+⚠️ When Excel is closed, the toolbar disappears unless the add-in is permanently installed.  
+To use it again, simply reopen the `.xlam` file.
+
+---
+
+## First launch
+When Excel starts, you will be prompted to enable macros.
+Enable them to activate Excel Swiss Knife.
+
+---
+
+## Troubleshooting
+
+### Installation or update errors
+
+If the installation or update fails, follow the **Uninstallation** procedure below and then install the add-in again.
+
+---
+
+### Toolbar disappears after restarting Excel
+
+Make sure the `.xlam` file is **not blocked or locked** by the operating system.  
+See the FAQ section for details.
+
+---
+
+## Uninstallation
+
+Due to Excel’s add-in management behavior, completely removing the add-in requires a few steps.
+
+1. Close Excel.
+2. Manually delete all Excel Swiss Knife files from the folder where they were extracted.
+3. Start Excel again. An error message will appear (this is expected).
+4. Go to **File → Options → Add-Ins**.
+5. Click **Go…** next to *Excel Add-ins*.
+6. Check or uncheck **Excel Swiss Knife**.
+
+A second error message will appear.  
+Confirm by clicking **Yes**.
+
+From the next restart, Excel will no longer display errors.
+
+This procedure can also be used to fix installation or update issues.
+
+---
+
 ## Open source
 
 Excel Swiss Knife is open source and distributed with a GPL3 license.
