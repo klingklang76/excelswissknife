@@ -58,15 +58,15 @@ Tip: even a single image of the ribbon menu helps users immediately understand w
 ## Download
 
 👉 **Download the latest version (free):**  
-https://www.excelswissknife.com
+https://www.excelswissknife.com/download
 
-The add-in is distributed as a standard Excel add-in file and works with modern versions of Excel for Windows.
+The add-in is distributed as a standard Excel add-in file and works with modern versions of Excel for Windows, from 2010 upwards.
 
 ---
 
 ## Open source
 
-Excel Swiss Knife is open source.
+Excel Swiss Knife is open source and distributed with a GPL3 license.
 
 You are free to:
 - inspect the code  
