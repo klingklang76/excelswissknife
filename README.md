@@ -54,6 +54,8 @@ You use it when you need it, without changing how you normally work in Excel.
 
 ## Screenshot
 
+One of users' favourite tools: takes a range of cells and splits it to different sheets/files, with tons of options to customize the operation
+
 ![Preview of the split range to separate files tool](docs/images/SplitRange2Files.png)
 
 ---
